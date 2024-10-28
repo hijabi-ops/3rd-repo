@@ -1,0 +1,67 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "task18" << endl;
+	cout << "**  **" << endl;
+	cout << "******" << endl;
+	cout << "******" << endl;
+	cout << " **** " << endl;
+	cout << "  *   " << endl;
+	
+	cout<<"task16"<<endl;
+	cout << "a)" << 25 / 3 << endl;
+	cout <<"b)" <<20 - 12 / 4 * 2 << endl;
+	cout<< "c)"<<32%7 << endl;
+	cout <<"d)" <<3 - 5 % 7 << endl;
+	cout <<"e)" <<18.0 / 4 << endl;
+	cout <<"f)" <<28 - 5 / 2.0 << endl;
+	cout <<"g)"<< 17 + 5 % 2 - 3 << endl;
+	cout <<"h)"<< 15.0 + 3.0 * 2.0 / 5.0 << endl;
+	cout<<"task15" << endl;
+	cout << "                               ************                                    " << endl;
+	cout << "                               Result Sheet                                    " << endl;
+	cout << "                               ************                                    " << endl;
+	cout << "student's Roll No.             Math        Physics       Chemistry       Total " << endl;
+	cout << "_______________________________________________________________________________" << endl;
+	cout << "     2357                      99              85             97           281 " << endl;
+	cout << "_______________________________________________________________________________" << endl;
+	cout<<"task14"<<endl;
+	cout << "2x1=" << 2 * 1 << endl;
+	cout << "2x2=" <<2*2 << endl;
+	cout << "2x3=" <<2*3 << endl;
+	cout << "2x4=" <<2*4 <<endl;
+	cout << "2x5=" <<2*5 <<endl;
+	cout << "2x6=" <<2*6 << endl;
+	cout << "2x7=" <<2*7 << endl;
+	cout << "2x8=" <<2*8 << endl;
+	cout << "2x9=" <<2*9 << endl;
+	cout << "2x10=" <<2*10<< endl;
+	cout<<"task13"<<endl;
+	cout << "ccccccccc        ++                  ++         " << endl;
+	cout << "cc               ++                  ++         " << endl;
+	cout << "cc         ++++++++++++++      +++++++++++++++  " << endl;
+	cout << "cc         ++++++++++++++      +++++++++++++++  " << endl;
+	cout << "cc               ++                  ++         " << endl;
+	cout << "ccccccccc        ++                  ++         " << endl;
+	cout<<"task12"<<endl;
+	cout << "***********************************" << endl;
+	cout << "*     Programming Assignment  3   *" << endl;
+	cout << "*     computer Programming  3     *" << endl;
+	cout << "*       Author:Arooj Fatima       *" << endl;
+	cout << "*     Due Date:  Monday, Oct.28   *" << endl;
+	cout << "***********************************" << endl;
+	cout<<"task11"<<endl;
+	cout << "    ***   " << endl;
+	cout <<"  ******* " << endl;
+	cout <<"     *    " << endl;
+	cout <<"     *    " << endl;
+	cout<<"task10"<<endl;
+	cout << "* * *" << endl;
+	cout << "*   *" << endl;
+	cout << "* * *" << endl;
+	cout << "Task 9" << endl;
+	cout << "  *  " << endl;
+	cout << "*****" << endl;
+	cout << "  *  " << endl;
+}
